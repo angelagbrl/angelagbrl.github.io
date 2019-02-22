@@ -38,7 +38,7 @@ body {
 
 .hero {
 	height: 400px;
-	background-image: url(gunung gede3.jpg);
+	background-image: url("gunung gede3.jpg");
 	background-size: cover; 
 	background-position: 0 -105px;
 	border-top: 20px color: #FFB6C1 ;
