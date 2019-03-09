@@ -1,0 +1,10 @@
+body{
+  background-image: url(bunga.jpeg);
+}
+.content {
+  color: white;
+}
+
+.content h1 {
+  border-bottom: 5px solid white;
+}
