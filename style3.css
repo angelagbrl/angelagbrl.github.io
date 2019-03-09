@@ -1,0 +1,70 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	background-image: url(gunung gede1.jpg);
+	color: #663399
+}
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: #FFB6C1;
+}
+
+.header {
+	padding: 20px;
+	padding-bottom: 10px;
+}
+
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.header li {
+	display: inline-block;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.header a {
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+}
+
+.header a:hover {
+	background-color: black;
+	color: white;
+}
+
+.hero {
+	height: 400px;
+	background-image: url(gunung gede3.jpg);
+	background-size: cover; 
+	background-position: 0 -105px;
+	border-top: 20px color: #FFB6C1 ;
+	border-bottom: 20px color: #FFB6C1 ;
+	border-right: 20px color : #FFB6C1;
+	border-left: 20px color : #FFB6C1;
+}
+
+.content {
+	padding: 20px;
+}
+
+.content h2 {
+	font-size: 31px;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 5px solid black;
+}
+
+.content .penulis {
+	font-size: 11px;
+	margin-top: -20px;
+
+}
+
+.content p {
+	margin-bottom: 20px;
+	font-size: 13px
+}
